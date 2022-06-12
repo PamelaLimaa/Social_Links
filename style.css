@@ -2,8 +2,42 @@ body{
     background: rgb(66,37,115);
     background: linear-gradient(90deg, rgba(66,37,115,1) 4%, rgba(99,56,166,1) 55%);
 }
+
 header{
     color: white;
     display: flex;
     justify-content: center;
+    top: 2rem;
+    margin: 0.7rem 0 1rem 0;
 }
+
+main div{
+    font-size: 30px;
+}
+
+img, .foto{
+    display: flex;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    border-radius: 50%;
+
+}
+
+a{
+    display: flex;
+    justify-content: center;
+    border: 2px solid #BB99DD;
+    color: white;
+    padding: 1rem;
+    margin: 2rem;
+}
+
+.links{
+    margin: auto;
+    align-items: center;
+    padding: 1rem;
+    width: 25rem;
+    height: 2rem;
+}
+
