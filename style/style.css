@@ -31,6 +31,7 @@ a{
     color: white;
     padding: 1rem;
     margin: 2rem;
+    text-decoration: none;
 }
 
 .links{
@@ -39,5 +40,11 @@ a{
     padding: 1rem;
     width: 25rem;
     height: 2rem;
+}
+
+.links :hover{
+    background-color: white;
+    color: #BB99DD;
+    font-size: 2rem;
 }
 
