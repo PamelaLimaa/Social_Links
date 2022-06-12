@@ -1,0 +1,9 @@
+body{
+    background: rgb(66,37,115);
+    background: linear-gradient(90deg, rgba(66,37,115,1) 4%, rgba(99,56,166,1) 55%);
+}
+header{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
